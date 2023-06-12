@@ -1,0 +1,3 @@
+rootProject.name = 'messagemicroservice-pragma-powerup'
+include 'src'
+
